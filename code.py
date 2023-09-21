@@ -1,1 +1,1 @@
-print("vinesh)")
+print("vinesh")
